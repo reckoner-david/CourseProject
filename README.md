@@ -7,7 +7,7 @@ If data does not download with google drive mounting please download data from: 
 
 Project Report: https://github.com/reckoner-david/CourseProject/blob/main/Project%20Report.pdf
 
-Demo File: https://github.com/reckoner-david/CourseProject/blob/main/demo.ipynb
+Source Code File: https://github.com/reckoner-david/CourseProject/blob/main/demo.ipynb
 (Notebook links to Colab)
 
 Source Code Documentation and Setup Guide: 
