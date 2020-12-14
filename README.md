@@ -9,3 +9,7 @@ Project Report: https://github.com/reckoner-david/CourseProject/blob/main/Projec
 
 Demo File: https://github.com/reckoner-david/CourseProject/blob/main/demo.ipynb
 (Notebook links to Colab)
+
+Source Code Documentation and Setup Guide: 
+  Look at Demo Video (it has explanation too)
+  Documentation File: https://github.com/reckoner-david/CourseProject/blob/main/Source%20Code%20Documentation.pdf
