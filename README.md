@@ -1,3 +1,10 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Demo Video: https://drive.google.com/file/d/1oJy1Io6Fu3mG6kxovVSx_pd4jJgacsP6/view?usp=sharing
+
+If data does not download with google drive mounting please download from: https://drive.google.com/drive/folders/19V4W6yhWjPz_qPKqQUCs86JSRpQIhS9s?usp=sharing
+
+
+Project Report: https://github.com/reckoner-david/CourseProject/blob/main/Project%20Report.pdf
+
+Demo File: https://github.com/reckoner-david/CourseProject/blob/main/demo.ipynb
