@@ -8,4 +8,4 @@ If data does not download with google drive mounting please download from: https
 Project Report: https://github.com/reckoner-david/CourseProject/blob/main/Project%20Report.pdf
 
 Demo File: https://github.com/reckoner-david/CourseProject/blob/main/demo.ipynb
-(Should redirect to Colab)
+(Notebook links to Colab)
